@@ -1,0 +1,15 @@
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.0.1.0
+gem5 compiled Nov 30 2023 11:45:00
+gem5 started Nov 30 2023 16:57:31
+gem5 executing on quzi, pid 29995
+command line: gem5.opt --outdir=exp_32/minor_160032 -re ./run.py
+
+Global frequency set at 1000000000000 ticks per second
+Initializing the matrices...Done.
+Beginning multiply...
+Done.
+Time 33.8461 ms
+Finished simulation.
