@@ -1,0 +1,14 @@
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.0.1.0
+gem5 compiled Nov 30 2023 11:45:00
+gem5 started Dec  1 2023 14:47:24
+gem5 executing on quzi, pid 6889
+command line: gem5.opt -re --outdir=exp_42/issue3float2 ./run.py
+
+int_op: 3, int_issue: 3
+int_op: 3, int_issue: 3
+fp_op: 2, fp_issue: 3
+Global frequency set at 1000000000000 ticks per second
+Finished simulation.
