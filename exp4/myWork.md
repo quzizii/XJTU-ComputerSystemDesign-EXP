@@ -20,3 +20,16 @@ Redirecting stdout to exp_42/issue6float1/simout
 Redirecting stderr to exp_42/issue6float1/simerr
 quzi@quzi:~/school/computer_system/gem5-assignment-template$ 
 ```
+
+```
+quzi@quzi:~/school/computer_system/gem5-assignment-template$ gem5.opt -re --outdir=exp_43/int4float8 ./run.py 
+Redirecting stdout to exp_43/int4float8/simout
+Redirecting stderr to exp_43/int4float8/simerr
+quzi@quzi:~/school/computer_system/gem5-assignment-template$ gem5.opt -re --outdir=exp_43/int2float8 ./run.py 
+Redirecting stdout to exp_43/int2float8/simout
+Redirecting stderr to exp_43/int2float8/simerr
+quzi@quzi:~/school/computer_system/gem5-assignment-template$ gem5.opt -re --outdir=exp_43/int4float4 ./run.py 
+Redirecting stdout to exp_43/int4float4/simout
+Redirecting stderr to exp_43/int4float4/simerr
+quzi@quzi:~/school/computer_system/gem5-assignment-template$ 
+```
