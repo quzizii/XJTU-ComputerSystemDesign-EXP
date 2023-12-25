@@ -1,0 +1,14 @@
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.0.1.0
+gem5 compiled Dec 24 2023 13:23:53
+gem5 started Dec 25 2023 17:26:25
+gem5 executing on quzi, pid 8744
+command line: ../gem5/build/X86/gem5.opt -re --outdir=./exp7/naive ./run.py
+
+Global frequency set at 1000000000000 ticks per second
+Initializing array and reseting result.
+Done initializing.
+Using a naive approach to sum up the array.
+Beginning summation ...
