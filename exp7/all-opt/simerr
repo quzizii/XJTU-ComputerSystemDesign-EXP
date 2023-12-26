@@ -12,9 +12,9 @@ src/sim/syscall_emul.cc:74: warn: ignoring syscall set_robust_list(...)
 src/sim/syscall_emul.cc:74: warn: ignoring syscall rseq(...)
 src/sim/mem_state.cc:443: info: Increasing stack size by one page.
 src/sim/syscall_emul.hh:1014: warn: readlink() called on '/proc/self/exe' may yield unexpected results in various settings.
-      Returning '/home/quzi/school/computer_system/gem5-assignment-template/workloads/array_sum/block-race-opt-gem5'
+      Returning '/home/quzi/school/computer_system/gem5-assignment-template/workloads/array_sum/all-opt-gem5'
 src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
-src/sim/simulate.cc:194: info: Entering event queue @ 264155913.  Starting simulation...
+src/sim/simulate.cc:194: info: Entering event queue @ 264430638.  Starting simulation...
 src/sim/syscall_emul.cc:85: warn: ignoring syscall rt_sigaction(...)
       (further warnings will be suppressed)
 src/sim/syscall_emul.cc:85: warn: ignoring syscall rt_sigprocmask(...)
@@ -69,14 +69,9 @@ src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
 src/sim/syscall_emul.cc:74: warn: ignoring syscall rseq(...)
 src/sim/syscall_emul.cc:74: warn: ignoring syscall set_robust_list(...)
 src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
+src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
+src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
 src/sim/syscall_emul.cc:74: warn: ignoring syscall madvise(...)
-src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
-src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
-src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
-src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
-src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
-src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
-src/sim/syscall_emul.cc:74: warn: ignoring syscall mprotect(...)
 src/sim/syscall_emul.cc:74: warn: ignoring syscall madvise(...)
 src/sim/syscall_emul.cc:74: warn: ignoring syscall madvise(...)
 src/sim/syscall_emul.cc:74: warn: ignoring syscall madvise(...)

@@ -22619,7 +22619,7 @@
                                 "name": "workload",
                                 "path": "board.processor.cores00.core.workload",
                                 "cmd": [
-                                    "/home/quzi/school/computer_system/gem5-assignment-template/workloads/array_sum/block-race-opt-gem5",
+                                    "/home/quzi/school/computer_system/gem5-assignment-template/workloads/array_sum/all-opt-gem5",
                                     "32768",
                                     "16"
                                 ],
@@ -22630,7 +22630,7 @@
                                 "errout": "cerr",
                                 "euid": 100,
                                 "eventq_index": 0,
-                                "executable": "/home/quzi/school/computer_system/gem5-assignment-template/workloads/array_sum/block-race-opt-gem5",
+                                "executable": "/home/quzi/school/computer_system/gem5-assignment-template/workloads/array_sum/all-opt-gem5",
                                 "gid": 100,
                                 "input": "cin",
                                 "kvmInSE": false,
